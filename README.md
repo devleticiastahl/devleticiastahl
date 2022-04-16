@@ -6,7 +6,7 @@
 
 🤓 O que estou estudando: HTML, CSS, JS, Phyton, UI/UX Design com Figma.
 
-<code><img height="20" src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1620514632~hmac=d06e0c53f1a86d88e6be95053b6f7911" alt="linkedin"/> https://www.linkedin.com/in/let%C3%ADciag%C3%B3es/
+Linkedin: https://www.linkedin.com/in/let%C3%ADciag%C3%B3es/
 
 ----
 
