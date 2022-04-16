@@ -1,10 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Letícia Góes</strong>
 
-> Formada em Técnico de Informática, cursando Técnico em Administração, trabalhando na BRF S.A e estudando Desenvolvimento Front-end e Ciência de Dados nas horas vagas.
+> Formada em Técnico de Informática, trabalhando na <strong>BRF S.A </strong> e estudando <strong>Ciência de Dados</strong> e <strong>Desenvolvimento Front-End.</strong>
 
 💻 Estarei postando todos os projetos que desenvolver aqui.
 
-🤓 O que estou estudando: HTML, CSS, JS, Phyton, UI/UX Design com Figma.
+🤓 O que estou estudando:  Python, MySQL, Excel, VBA, HTML, CSS, JS, UI/UX Design com Figma.
 
 Linkedin: https://www.linkedin.com/in/let%C3%ADciag%C3%B3es/
 
@@ -16,3 +16,4 @@ Linkedin: https://www.linkedin.com/in/let%C3%ADciag%C3%B3es/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
