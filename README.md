@@ -11,7 +11,6 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devleticiagoes&layout=compact&langs_count=7&theme=material-palenight"</a>
 </div>
   
-  ## 🚀 O que eu estou aprendendo:
   <div style="display: inline_block"><br>
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
