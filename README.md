@@ -4,4 +4,7 @@
 
 #### Oie! Meu nome é Letícia Góes
 Sou estudante de ciência de dados, amante de UX/UI design e estarei postando aqui meus estudos e projetos que desenvolver! :)
+  
+### Dá uma olhada nesse projeto para o Mercado Solidário de Tatuí:
+https://github.com/edunucleo/mercado_solidario
 
