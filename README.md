@@ -18,15 +18,15 @@ Projeto criado para o Mercado Solidário de Tatuí: https://github.com/edunucleo
 Introdução à Ciência de Dados: https://github.com/edunucleo/mercado_solidario
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devleticiastahl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devleticiastahl&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devleticiastahl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=devleticiastahl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devleticiastahl&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devleticiastahl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devleticiastahl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=devleticiastahl&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devleticiastahl&icon=2&color=6)](https://visitcount.itsvg.in)
