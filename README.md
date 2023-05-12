@@ -3,7 +3,7 @@
 ## 💫 Sobre mim:
 Estudante de Ciência de Dados na UNIVESP<br>
 Estudante na Alura nas horas vagas<br>
-Um pouco curiosa demais. Também me aventuro por design e marketing.<br>
+Também me aventuro por design e marketing.<br>
 <b>
  "O propósito do nosso trabalho deve ser ajudar os outros em vez de enriquecer a nós mesmos." - Anne Frank.<br><b>
 
