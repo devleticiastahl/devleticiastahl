@@ -5,7 +5,6 @@ Estudante de Ciência de Dados na UNIVESP<br>
 Estudante na Alura nas horas vagas<br>
 Também me aventuro por design e marketing.<br>
 <b>
- "O propósito do nosso trabalho deve ser ajudar os outros em vez de enriquecer a nós mesmos." - Anne Frank.<br><b>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/letstahl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leticiastahl/) 
