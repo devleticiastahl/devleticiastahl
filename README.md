@@ -2,8 +2,7 @@
 <b>“Os dados que nós coletamos atualmente nos permitem ver as coisas que até há pouco tempo atrás eram grandes demais para enxergarmos.”- Eric Siegel, Predictive Analytics</b>
 ## 💫 Sobre mim:
 Estudante de Ciência de Dados na UNIVESP<br>
-Estudante na Alura nas horas vagas<br>
-Também me aventuro por design e marketing.<br>
+Estudante no DataCamp nas horas vagas.<br>
 <b>
 
 ## 🌐 Socials:
