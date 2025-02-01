@@ -1,8 +1,7 @@
 # Bem-vindo(a) ao meu GitHub 👩‍💻
 <b>“Os dados que nós coletamos atualmente nos permitem ver as coisas que até há pouco tempo atrás eram grandes demais para enxergarmos.”- Eric Siegel, Predictive Analytics</b>
 ## 💫 Sobre mim:
-Estudante de Ciência de Dados na UNIVESP<br>
-Estudante no DataCamp nas horas vagas.<br>
+Estudante de Ciência de Dados na UNIVESP e DataCamp.<br>
 <b>
 
 ## 🌐 Socials:
