@@ -1,5 +1,7 @@
 # Bem-vindo(a) ao meu GitHub 👩‍💻
-<b>“Os dados que nós coletamos atualmente nos permitem ver as coisas que até há pouco tempo atrás eram grandes demais para enxergarmos.”- Eric Siegel, Predictive Analytics</b>
+> "Os dados que nós coletamos atualmente nos permitem ver as coisas que até há pouco tempo atrás eram grandes demais para enxergarmos."
+> **- Eric Siegel, Predictive Analytics**
+> 
 ## 💫 Sobre mim:
 Estudante de Ciência de Dados na UNIVESP e DataCamp.<br>
 <b>
@@ -10,25 +12,28 @@ Estudante de Ciência de Dados na UNIVESP e DataCamp.<br>
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Wordpress](https://img.shields.io/badge/Wordpress-31A8FF.svg?style=for-the-badge&logo=Wordpress&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 🔝 My projects
-Projeto criado para o Mercado Solidário de Tatuí: https://github.com/edunucleo/mercado_solidario <br>
-Introdução à Ciência de Dados: https://github.com/edunucleo/mercado_solidario
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devleticiastahl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devleticiastahl&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devleticiastahl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## 🚀 Projetos
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devleticiastahl&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
+### 🎬 EDA - Investigando Filmes dos Anos 90
+Análise exploratória de dados (EDA) sobre filmes dos anos 1990, utilizando dados da Netflix para identificar tendências, gêneros populares e características cinematográficas da época. Confira o repositório e explore a análise:  
+[🔗 Investigando Filmes dos Anos 90](https://github.com/devleticiastahl/90smovies-netflix)
 
----
-[![](https://visitcount.itsvg.in/api?id=devleticiastahl&icon=2&color=6)](https://visitcount.itsvg.in)
+### 🛒 Mercado Solidário - Projeto Integrador
+Desenvolvimento de um site institucional e sistema de gestão para o Mercado Solidário de Tatuí. Confira o repositório:  
+[🔗 Mercado Solidário de Tatuí](https://github.com/edunucleo/mercado_solidario)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Outros projetos:
+[🔗 Introdução à Ciência de Dados](https://github.com/edunucleo/mercado_solidario) <br>
+[🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/exerciciospythonbrasil)
+
+<br>
+
+> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens."* - 
+>  **Colossenses 3:23**  
+
+
 
 
 
