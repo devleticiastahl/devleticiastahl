@@ -25,8 +25,9 @@ Desenvolvimento de um site institucional e sistema de gestão para o Mercado Sol
 [🔗 Mercado Solidário de Tatuí](https://github.com/edunucleo/mercado_solidario)
 
 ### 💻 Outros projetos:
-[🔗 Introdução à Ciência de Dados](https://github.com/edunucleo/mercado_solidario) <br>
-[🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/exerciciospythonbrasil)
+[🔗 Introdução à Ciência de Dados](https://github.com/https://github.com/devleticiastahl/introcienciadedados) <br>
+[🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/python-brasil-exercicios)
+
 
 <br>
 
