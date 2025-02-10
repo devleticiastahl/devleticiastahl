@@ -28,6 +28,9 @@ Desenvolvimento de um site institucional e sistema de gestão para o Mercado Sol
 [🔗 Introdução à Ciência de Dados](https://github.com/https://github.com/devleticiastahl/introcienciadedados) <br>
 [🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/python-brasil-exercicios)
 
+### Meus Projetos no Behance
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leticiastahl)
 
 <br>
 
