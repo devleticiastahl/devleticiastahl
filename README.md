@@ -4,6 +4,7 @@
 > 
 ## 💫 Sobre mim:
 ![foxgirl](https://github.com/user-attachments/assets/29473805-1a4c-46d4-a2ec-672154108c14)
+<br>
 Cientista de Dados pela UNIVESP, aprimorando meus conhecimentos com a DataCamp e Codédex.
 <br>
 <b>
@@ -31,14 +32,13 @@ Desenvolvimento de um site institucional e sistema de gestão para o Mercado Sol
 [🔗 Introdução à Ciência de Dados](https://github.com/https://github.com/devleticiastahl/introcienciadedados) <br>
 [🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/python-brasil-exercicios)
 
-### Meus Projetos no Behance
+### Tenhos alguns projetos de Business Intelligence no Behance:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leticiastahl)
 
 <br>
 
-> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens."* - 
->  **Colossenses 3:23**  
+
 
 
 
