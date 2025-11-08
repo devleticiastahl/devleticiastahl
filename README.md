@@ -3,8 +3,11 @@
 > **- Eric Siegel, Predictive Analytics**
 > 
 ## 💫 Sobre mim:
-Estudante de Ciência de Dados na UNIVESP e DataCamp.<br>
+![foxgirl](https://github.com/user-attachments/assets/29473805-1a4c-46d4-a2ec-672154108c14)
+Cientista de Dados pela UNIVESP, aprimorando meus conhecimentos com a DataCamp e Codédex.
+<br>
 <b>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/letstahl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leticiastahl/) 
