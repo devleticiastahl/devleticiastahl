@@ -29,10 +29,9 @@ Desenvolvimento de um site institucional e sistema de gestão para o Mercado Sol
 [🔗 Mercado Solidário de Tatuí](https://github.com/edunucleo/mercado_solidario)
 
 ### 💻 Outros projetos:
-[🔗 Introdução à Ciência de Dados](https://github.com/https://github.com/devleticiastahl/introcienciadedados) <br>
 [🔗 Exercícios Resolvidos - Python Brasil](https://github.com/devleticiastahl/python-brasil-exercicios)
 
-### Tenhos alguns projetos de Business Intelligence no Behance:
+### Tenho alguns projetos de Business Intelligence no Behance:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leticiastahl)
 
