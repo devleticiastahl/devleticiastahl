@@ -5,7 +5,7 @@
 ## 💫 Sobre mim:
 ![foxgirl](https://github.com/user-attachments/assets/29473805-1a4c-46d4-a2ec-672154108c14)
 <br><br>
-Cientista de Dados pela UNIVESP, e em constante aprendizado na DataCamp e Codédex.
+Cientista de Dados pela UNIVESP, em constante aprendizado.
 <br>
 <b>
 
