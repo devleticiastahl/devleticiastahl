@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.png" alt="Header Leticia Stahl" width="100%" />
+  <img src="assets/header-red.png" alt="Header Leticia Stahl" width="100%" />
 </div>
 
 <br/>
