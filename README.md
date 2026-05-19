@@ -27,19 +27,33 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="brazil_trading.png" alt="Brazil Trading Dashboard" width="100%" style="border-radius:8px" />
+        <a href="https://github.com/devleticiastahl/brazil-trading-with-the-world-2025">
+          <img src="brazil-trading.png" alt="Brazil Trading Dashboard" width="100%" style="border-radius:8px"/>
+        </a>
         <br/><br/>
         <b>Brazil Trading with the World</b>
         <br/>
         <sub>Business Intelligence · Data Visualization</sub>
       </td>
       <td align="center" width="50%">
-        <!-- próximo projeto -->
+        <a href="https://github.com/edunucleo/mercado_solidario">
+          <img src="mercado-solidario.png" alt="Mercado Solidario" width="100%" style="border-radius:8px"/>
+        </a>
+        <br/><br/>
+        <b>Mercado Solidário</b>
+        <br/>
+        <sub>php, sql, html/css, js, & wordpress · Full-Stack Web Development</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <!-- próximo projeto -->
+        <a href="https://github.com/devleticiastahl/90smovies-netflix">
+          <img src="90smovies-netflix.png" alt="90s movies Netflix" width="100%" style="border-radius:8px"/>
+        </a>
+        <br/><br/>
+        <b>Investigating 1990s Movies 🎬</b>
+        <br/>
+        <sub>numpy, matplotlib, seaborn · Exploratory Data Analysis</sub>
       </td>
       <td align="center" width="50%">
         <!-- próximo projeto -->
