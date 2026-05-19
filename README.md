@@ -67,6 +67,9 @@
 
 ---
 
-<div align="center">
-  <sub>Made with ♥ and ☕︎ by Leticia Stahl</sub>
+<div align="left">
+  <sub>Made with ♥ and ☕︎ by Leticia Stahl </sub>
 </div>
+<br/>
+
+[![UI Kit](https://img.shields.io/badge/UI%20Kit-Emily%20Augusto-purple?style=flat-square&logo=figma&logoColor=white)](https://github.com/emilyaugusto)
