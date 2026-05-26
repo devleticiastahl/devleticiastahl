@@ -49,6 +49,10 @@ You can also find me at:
       <sub>Business Intelligence · Data Visualization</sub><br/>
       <sub>Analysis of Brazilian trade flows with interactive dashboards built in Power BI.</sub>
       <br/><br/>
+      <a href="https://github.com/devleticiastahl/brazil-trading-with-the-world-2025">
+        <img src="https://img.shields.io/badge/view%20project-%20→-000000?style=flat-square" />
+      </a>
+      <br/><br/>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/devleticiastahl/90smovies-netflix">
@@ -58,6 +62,10 @@ You can also find me at:
       <b>Investigating 1990s Movies</b><br/>
       <sub>NumPy · Matplotlib · Seaborn · Exploratory Data Analysis</sub><br/>
       <sub>EDA on Netflix's 90s movie catalog, uncovering patterns in genres, ratings and duration.</sub>
+      <br/><br/>
+      <a href="https://github.com/devleticiastahl/90smovies-netflix">
+        <img src="https://img.shields.io/badge/view%20project-%20→-000000?style=flat-square" />
+      </a>
       <br/><br/>
     </td>
     <td width="33%" valign="top">
@@ -69,6 +77,10 @@ You can also find me at:
       <sub>PHP · SQL · HTML/CSS · JS · WordPress · Full-Stack Web</sub><br/>
       <sub>A web platform built to support a local solidarity market, enabling donations, volunteering sign-ups, family registrations, and an admin panel for stock management and scoring.</sub>
       <br/><br/>
+      <a href="https://github.com/edunucleo/mercado_solidario">
+        <img src="https://img.shields.io/badge/view%20project-%20→-000000?style=flat-square" />
+      </a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -77,4 +89,4 @@ You can also find me at:
 
 ---
 
-<sub>Made with ♥ and ☕︎ by Leticia Góes</sub>
+<sub>☕︎ Made by <a href="https://github.com/devleticiagoes">Leticia Góes</a></sub>
