@@ -1,13 +1,24 @@
-> *Data is a gift from yesterday that you receive today to make tomorrow better.*
-> — Jon Acuff
+&nbsp;
+
+```python
+quote = {
+    "text": "Data is a gift from yesterday that you receive today to make tomorrow better.",
+    "author": "Jon Acuff"
+}
+
+print(f'"{quote["text"]}" — {quote["author"]}')
+```
 
 <br/>
 
-### Hi, I'm Letícia.
+## Hi, I'm Letícia 👋
 
-Business Intelligence Analyst & Data Visualization Enthusiast, based in Tatuí, SP.
+I'm a **Business Intelligence Analyst** and **Data Visualization Enthusiast** based in Tatuí, SP, Brazil.
 
-<br/>
+This is my space to build, experiment and learn. <br>
+You'll find college projects, personal explorations and tools I wanted to dig into. Everything here is original work. When a project is inspired by a course, tutorial or someone else's idea, I always credit the source.
+
+You can also find me at:
 
 <a href="https://www.linkedin.com/in/leticiastahl/">
   <img src="https://img.shields.io/badge/LinkedIn-leticiastahl-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24" />
@@ -15,6 +26,10 @@ Business Intelligence Analyst & Data Visualization Enthusiast, based in Tatuí, 
 &nbsp;
 <a href="https://www.behance.net/leticiastahl">
   <img src="https://img.shields.io/badge/Behance-leticiastahl-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="24" />
+</a>
+&nbsp;
+<a href="https://medium.com/@devleticiagoes">
+  <img src="https://img.shields.io/badge/Medium-devleticiagoes-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="24" />
 </a>
 
 <br/><br/>
@@ -52,12 +67,14 @@ Business Intelligence Analyst & Data Visualization Enthusiast, based in Tatuí, 
       <br/><br/>
       <b>Mercado Solidário</b><br/>
       <sub>PHP · SQL · HTML/CSS · JS · WordPress · Full-Stack Web</sub><br/>
-      <sub>E-commerce platform for social impact, connecting small producers to local consumers.</sub>
+      <sub>A web platform built to support a local solidarity market, enabling donations, volunteering sign-ups, family registrations, and an admin panel for stock management and scoring.</sub>
       <br/><br/>
     </td>
   </tr>
 </table>
 
 <br/>
+
+---
 
 <sub>Made with ♥ and ☕︎ by Leticia Góes</sub>
