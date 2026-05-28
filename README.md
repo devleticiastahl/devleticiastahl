@@ -31,6 +31,10 @@ You can also find me at:
 <a href="https://medium.com/@devleticiastahl">
   <img src="https://img.shields.io/badge/Medium-devleticiastahl-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="24" />
 </a>
+&nbsp;
+<a href="https://app.notion.com/p/Let-cia-Stahl-de-G-es-7cbd0abce20a836ab7298134afcddbd1?source=copy_link">
+  <img src="https://img.shields.io/badge/Resume-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Resume" height="24" />
+</a>
 
 <br/><br/>
 
