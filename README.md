@@ -28,7 +28,7 @@ You can also find me at:
   <img src="https://img.shields.io/badge/Behance-leticiastahl-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="24" />
 </a>
 &nbsp;
-<a href="https://medium.com/@devleticiagoes">
+<a href="https://medium.com/@devleticiastahl">
   <img src="https://img.shields.io/badge/Medium-devleticiagoes-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="24" />
 </a>
 
