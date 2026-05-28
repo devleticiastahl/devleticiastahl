@@ -29,7 +29,7 @@ You can also find me at:
 </a>
 &nbsp;
 <a href="https://medium.com/@devleticiastahl">
-  <img src="https://img.shields.io/badge/Medium-devleticiagoes-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="24" />
+  <img src="https://img.shields.io/badge/Medium-devleticiastahl-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="24" />
 </a>
 
 <br/><br/>
